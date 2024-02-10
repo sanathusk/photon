@@ -58,7 +58,7 @@ class _AppsListState extends State<AppsList> {
                       );
                     });
               },
-              icon: Icon(Icons.search))
+              icon: const Icon(Icons.search))
         ],
       ),
       body: FutureBuilder(

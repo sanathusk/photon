@@ -186,7 +186,7 @@ class _MobileHomeState extends State<MobileHome> {
                                           children: [
                                             const Text("Share text"),
                                             IconButton(
-                                              icon: Icon(Icons.close),
+                                              icon: const Icon(Icons.close),
                                               onPressed: () {
                                                 Navigator.of(context).pop();
                                               },

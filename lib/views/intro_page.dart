@@ -7,7 +7,6 @@ import 'package:flutter_svg/svg.dart';
 import 'package:hive/hive.dart';
 import 'package:introduction_screen/introduction_screen.dart';
 import 'package:lottie/lottie.dart';
-import 'package:photon/components/snackbar.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 import "package:permission_handler/permission_handler.dart";
 
